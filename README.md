@@ -1,8 +1,9 @@
 Prometheus.io exporter for codahale/dropwizard metrics
 ======================================================
 
-Integration into Apache Cassandra
----------------------------------
+**This project is superseded by a pull request to support exporting metrics for prometheus via the [metrics-reporter](https://github.com/addthis/metrics-reporter-config/pull/26)** 
+
+Integration into Apache Cassandra:
 
 Requirements:
 * Apache Cassandra newer than 3.XXXX
